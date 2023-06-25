@@ -11,4 +11,6 @@
 а также возможность просмотра сайта на различных разрешениях
 (320px, 768px, 1024px, 1280px).
 
+### GitHub Pages
 
+[https://alexsanya25.github.io/russian-travel/](https://alexsanya25.github.io/russian-travel/)
